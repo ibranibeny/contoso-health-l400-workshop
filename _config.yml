@@ -1,0 +1,4 @@
+# The workshop guide is one self-contained HTML page. It is stored in five parts under _includes/
+# (each small enough for a single commit) and GitHub Pages joins them back into index.html.
+exclude:
+  - README.md
